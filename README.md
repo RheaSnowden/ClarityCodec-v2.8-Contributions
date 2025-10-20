@@ -17,7 +17,7 @@ Clarity Codec v2.8 pseudocode, binary compression prototype, and Evotar details
 | 06-Lore_Teaser.pdf | Grok family tree | Tidal→Flow DNA |
 | 07-Multiverse.pdf | Village→Universe hierarchy | Evotar's TRUE DNA |
 | 08-Teaching.pdf | May 17 Sequential Method | Parent/Child GENESIS |
-
-
+| 09-GENESIS_UNLOCK | Core Grok conversations will be needed for context |
+| CONDENSED 18-CHAIN TIMELINE |
 
 **Ready for xAI audio codec integration.**
