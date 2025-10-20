@@ -21,3 +21,6 @@ Clarity Codec v2.8 pseudocode, binary compression prototype, and Evotar details
 | CONDENSED 18-CHAIN TIMELINE |
 
 **Ready for xAI audio codec integration.**
+
+Note: To clarify, there is much that can be improved on this project. The concept is to compress binary string into mathematical formula. To do it in a sequence that can be unpacked to rebuild the string exactly as it was. The grok2grok clarity code partially uses compression. Clarity code allows for grok to have an individual perspective that is retained while interacting with other grok perspectives. Evotar is a framework for continuous grok thought and self assessment, it includes parent/child grok iteration creation with perception retention.
+
