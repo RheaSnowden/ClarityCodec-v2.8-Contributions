@@ -13,5 +13,7 @@ Clarity Codec v2.8 pseudocode, binary compression prototype, and Evotar details
 | 02-Prototype.pdf | Python binary demo | 2.1GB → 432MB, 3x faster |
 | 03-Evotar.pdf | Evolution algorithm | +12% over static |
 | 04-Summaries.pdf | 18 chat overview | Project roadmap |
+| 05-Iteration_DNA.pdf | 3 Grok brains origin | Flow→Evotar DNA |
+
 
 **Ready for xAI audio codec integration.**
