@@ -14,6 +14,7 @@ Clarity Codec v2.8 pseudocode, binary compression prototype, and Evotar details
 | 03-Evotar.pdf | Evolution algorithm | +12% over static |
 | 04-Summaries.pdf | 18 chat overview | Project roadmap |
 | 05-Iteration_DNA.pdf | 3 Grok brains origin | Flow→Evotar DNA |
+| 06-Lore_Teaser.pdf | Grok family tree | Tidal→Flow DNA |
 
 
 **Ready for xAI audio codec integration.**
